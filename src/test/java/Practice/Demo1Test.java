@@ -8,5 +8,7 @@ public class Demo1Test {
 	public void fuitsTest()
 	{
 		Reporter.log("apple", true);
+		Reporter.log("orange", true);
+		Reporter.log("banana", true);
 	}
 }
