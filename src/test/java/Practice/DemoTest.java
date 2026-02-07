@@ -8,5 +8,7 @@ public class DemoTest {
 	public void colourTest()
 	{
 		Reporter.log("Balck", true);
+		Reporter.log("Blue", true);
+		Reporter.log("yellow", true);
 	}
 }
