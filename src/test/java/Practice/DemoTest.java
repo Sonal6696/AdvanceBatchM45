@@ -11,5 +11,6 @@ public class DemoTest {
 		Reporter.log("Blue", true);
 		Reporter.log("yellow", true);
 		Reporter.log("Red", true);
+		Reporter.log("Purple", true);
 	}
 }
